@@ -21,6 +21,10 @@ Utilizing a Raspberry PI 3 for control:
 
 [Control Programs](https://max7219.readthedocs.io/en/0.2.3/)
 
+The SPI communication and display drivers I am going to use are based on these:
+[Luma Driver] (https://github.com/rm-hull/luma.led_matrix)
+
+
 A low power LED matrix HAT is available for the PI:
 
 [Low power Pi HAT](https://www.amazon.com/HiLetgo-MAX7219-control-Display-Arduino/dp/B00LSG54O2/ref=sr_1_8?crid=5A6FXIFY03TO&keywords=max7219+dot+matrix+module&qid=1584419672&sprefix=max7219+d%2Caps%2C217&sr=8-8)
