@@ -22,8 +22,8 @@ Utilizing a Raspberry PI 3 for control:
 [Control Programs](https://max7219.readthedocs.io/en/0.2.3/)
 
 The SPI communication and display drivers I am going to use are based on these:
-[Luma Driver] (https://github.com/rm-hull/luma.led_matrix)
 
+[Luma Driver](https://github.com/rm-hull/luma.led_matrix/)
 
 A low power LED matrix HAT is available for the PI:
 
